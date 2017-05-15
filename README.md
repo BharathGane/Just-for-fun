@@ -1,2 +1,2 @@
 # Just-for-fun
-This are the  programs done for just to kill time.
+Minor programs written just to kill time.
